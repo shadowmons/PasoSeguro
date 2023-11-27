@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="seguridad">
+    <item>Baja </item>
+    <item>Media </item>
+    <item>Alta </item>
+</string-array>
+
+    <string-array name="seguridadValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="algoritmo">
+        <item>Método estadistico </item>
+        <item>K-NN </item>
+        <item>Ambos </item>
+    </string-array>
+
+    <string-array name="algoritmoValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>}
+    </string-array>
+
+    <string-array name="tiempo">
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+        <item>4 horas</item>
+        <item>5 horas</item>
+        <item>6 horas</item>
+        <item>12 horas</item>
+        <item>18 horas</item>
+        <item>24 horas</item>
+    </string-array>
+
+    <string-array name="tiempoValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>

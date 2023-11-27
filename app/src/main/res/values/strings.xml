@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">PasoSeguro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_prueba">Settings</string>
+    <string name="action_delete">delete</string>
+
+    <string name="btn_Main_registrar">Registrar patrón \n de caminar</string>
+    <string name="btn_Main_exportar">Exportar a \n la tarjeta SD</string>
+    <string name="btn_Main_ver1">Ver mi patrón \n de caminar</string>
+    <string name="btn_Main_ver2">Ver ciclos</string>
+    <string name="btn_Main_ver3">Ver señal final</string>
+    <string name="btn_continuar">Continuar</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="Guardar_patron">Guardar</string>
+    <string name="borrar_patron">Borrar</string>
+    <string name="btn_home">INICIO</string>
+    <string name="btn_reiniciar">Reiniciar</string>
+    <string name="btn_exportar">Exportar</string>
+
+    <string name="txt_primerAviso_aviso1">El dispositivo móvil debe estar en el bolsillo del pantalón en posición vertical en el momento en que empiece a caminar
+        para una mejor captura de los datos.</string>
+    <string name="txt_primerAviso_aviso2">Necesitaremos tomar 5 muestras de 10 segundos de su patrón de caminar para poder identificarlo.</string>
+
+    <string name="txt_segundoAviso">tendrá 5 segundos para guardar el dispositivo móvil. \n \n Finalizados los 5 segundos deberá caminar para registrar su patrón de caminar.
+    </string>
+    <string name="alert_sinusuario">No tiene usuarios registrados.</string>
+    <string name="txt_Exportar_exportar">Ingrese nombre del patrón de caminar a exportar</string>
+
+    <string name="alerta">Aun no ha registrado su patrón de caminar. Ingrese en <b>Registrar patrón de caminar </b></string>
+
+    <string name="caminar1_crudo">CAMINAR1_RAW</string>
+    <string name="caminar2_crudo">CAMINAR2_RAW</string>
+    <string name="caminar3_crudo">CAMINAR3_RAW</string>
+    <string name="caminar4_crudo">CAMINAR4_RAW</string>
+    <string name="caminar5_crudo">CAMINAR5_RAW</string>
+    <string name="caminar1_procesado">CAMINAR1_PROC</string>
+    <string name="caminar2_procesado">CAMINAR2_PROC</string>
+    <string name="caminar3_procesado">CAMINAR3_PROC</string>
+    <string name="caminar4_procesado">CAMINAR4_PROC</string>
+    <string name="caminar5_procesado">CAMINAR5_PROC</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Teléfono</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<PreferenceCategory android:title="Nivel de seguridad" >
+        <ListPreference
+            android:title="Definir nivel de Seguridad"
+            android:key="seguridad_preference"
+            android:defaultValue="1"
+            android:entries="@array/seguridad"
+            android:entryValues="@array/seguridadValues" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Tiempo de seguridad" >
+        <ListPreference
+            android:title="Definir Tiempo"
+            android:key="tiempo_preference"
+            android:defaultValue="3"
+            android:entries="@array/tiempo"
+            android:entryValues="@array/tiempoValues" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Algoritmo de autenticación" >
+        <ListPreference
+            android:title="Definir Algoritmo"
+            android:key="algoritmo_preference"
+            android:defaultValue="0"
+            android:entries="@array/algoritmo"
+            android:entryValues="@array/algoritmoValues" />
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
